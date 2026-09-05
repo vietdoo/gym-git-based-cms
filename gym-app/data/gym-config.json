@@ -1,0 +1,57 @@
+{
+  "brand": {
+    "name": "SuperFit Gym",
+    "slogan": "Vượt Qua Giới Hạn",
+    "hotline": "0987.654.321",
+    "zalo": "0987.654.321",
+    "email": "contact@superfitgym.vn",
+    "address": "123 Đường Thể Thao, Quận 1, TP. Hồ Chí Minh",
+    "openHours": "05:00 - 22:00 Hàng Ngày",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.4241674197217!2d106.6991629!3d10.7711467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f4119d65ab7%3A0x89fc3258c73484f2!2sBitexco%20Financial%20Tower!5e0!3m2!1svi!2s!4v1700000000000!5m2!1svi!2s"
+  },
+  "hero": {
+    "title": "KIẾN TẠO HÌNH THỂ HOÀN HẢO",
+    "subtitle": "Phòng tập chuẩn 5 sao với trang thiết bị hiện đại nhất.",
+    "ctaText": "ĐĂNG KÝ TẬP THỬ",
+    "backgroundImage": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=1470&auto=format&fit=crop"
+  },
+  "pricing": [
+    {
+      "id": "1",
+      "name": "Gói 1 Tháng",
+      "originalPrice": 800000,
+      "promoPrice": 599000,
+      "features": ["Sử dụng toàn bộ dụng cụ", "Tắm nóng lạnh", "Xông hơi", "Miễn phí gửi xe"],
+      "tag": ""
+    },
+    {
+      "id": "2",
+      "name": "Gói 3 Tháng",
+      "originalPrice": 2400000,
+      "promoPrice": 1499000,
+      "features": ["Sử dụng toàn bộ dụng cụ", "Tắm nóng lạnh", "Xông hơi", "Miễn phí gửi xe", "Đo Inbody 1 lần/tháng"],
+      "tag": "Best Seller"
+    },
+    {
+      "id": "3",
+      "name": "Gói 1-1 Cùng PT",
+      "originalPrice": 6000000,
+      "promoPrice": 4500000,
+      "features": ["Có HLV kèm 1-1", "Lên thực đơn riêng", "Lên giáo án tập luyện riêng", "Tất cả quyền lợi cơ bản"],
+      "tag": "Premium"
+    }
+  ],
+  "classes": [
+    "Gym",
+    "Yoga",
+    "Boxing",
+    "Zumba",
+    "Aerobic",
+    "Xông hơi thư giãn",
+    "Đỗ xe miễn phí"
+  ],
+  "promotions": {
+    "bannerText": "🔥 GIẢM GIÁ 50% GÓI TẬP 3 THÁNG CHO HỘI VIÊN MỚI TRONG THÁNG NÀY! 🔥",
+    "isActive": true
+  }
+}
